@@ -1,0 +1,16 @@
+while(z < 10) {
+	read(a2);
+	print(q);
+	p assign (a2 + b);
+	print(p);
+}
+
+{
+id
+x
+flag_1
+x2y2
+_x_1_y_2_
+__________pippo
+46_a //questo non deve essere riconosciuto, deve dare errore
+}

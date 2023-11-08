@@ -1,0 +1,6 @@
+while(z < 10) {
+	read(a2);
+	print(q);
+	p assign (a2 + b);
+	print(p);
+}

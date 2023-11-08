@@ -1,0 +1,22 @@
+while(z < 10) {
+	read(a2);
+	print(q);
+	p assign (a2 + b);
+	print(p);
+}
+
+{
+id
+x
+flag_1
+x2y2
+_x_1_y_2_
+__________pippo
+}
+
+{
+/* calcolare la velocita' */
+assign 300 to d; // distanza
+assign 10 to t; // tempo
+print(* d t)
+}
