@@ -1,0 +1,8 @@
+read(x);
+read(y);
+if(< x y) print(* (3,x)) else print(* (4,y)) end;
+while (> x 0) {
+  assign - x 1 to x;
+  print(x)
+}
+

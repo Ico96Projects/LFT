@@ -1,0 +1,11 @@
+read(x,y);
+read(j,z);
+print(x,z);
+print(*(2,3,y));
+if (> x z) print (x,- 2 *(2, - 9 *(2,+(x,/ 2 3,*(y,3,4)))))
+else if(< y j) print (*(3,j),*(y,j)) end
+end
+
+
+
+
